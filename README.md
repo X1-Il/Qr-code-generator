@@ -32,7 +32,7 @@ This app generates Qr Code based on the url entered.
 
 Features: 
 - Light / dark mode theme switcher
-- Qr Code 'X1-Il.netlify.pp' default on loading
+- Qr Code 'X1-Il.netlify.app' default on loading
 - Dynamically generating the Qr Code as you type the URL
 - Dynamically update the color and background of the Qr Code based on the customization input entered by the user
 - Dynamically update the customized image of the Qr Code
