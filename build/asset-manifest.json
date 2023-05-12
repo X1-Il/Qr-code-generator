@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qrcode-generator.netlify.app/static/css/main.6afe86ef.css",
+    "main.js": "/qrcode-generator.netlify.app/static/js/main.8d6812eb.js",
+    "static/js/787.bf125a00.chunk.js": "/qrcode-generator.netlify.app/static/js/787.bf125a00.chunk.js",
+    "index.html": "/qrcode-generator.netlify.app/index.html",
+    "main.6afe86ef.css.map": "/qrcode-generator.netlify.app/static/css/main.6afe86ef.css.map",
+    "main.8d6812eb.js.map": "/qrcode-generator.netlify.app/static/js/main.8d6812eb.js.map",
+    "787.bf125a00.chunk.js.map": "/qrcode-generator.netlify.app/static/js/787.bf125a00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6afe86ef.css",
+    "static/js/main.8d6812eb.js"
+  ]
+}
