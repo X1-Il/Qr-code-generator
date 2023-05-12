@@ -93,7 +93,7 @@ If requirements above are not installed in your computer, you'll need to install
   ```
 - Navigate to repository folder
   ```sh
-  cd qrcode-generator
+  cd Qr-code-generator
   ```
 - Install npm packages
   ```sh
