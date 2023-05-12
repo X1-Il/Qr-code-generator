@@ -121,7 +121,7 @@ Please feel free to create an issue if you see a bug or something unexpected in 
 
 ## Author
 
-# X1-Il portfolio - [X1-Il](https://x1-il.netlify.app)
+### X1-Il portfolio - [X1-Il](https://x1-il.netlify.app)
 
 Thanks by X1-Il 
 
