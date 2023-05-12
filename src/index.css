@@ -379,7 +379,7 @@ input:active {
 	width: 3.6rem;
 	height: 3.6rem;
 	border-radius:100%;
-	background-image: url('');
+	background-image: url('https://raw.githubusercontent.com/X1-Il/Qr-code-generator/d0d293757283e58247ba420c44697a0bca71998e/public/logo-apple-icon192.png');
 	background-size: 100%;
 	z-index: 99;
 }
